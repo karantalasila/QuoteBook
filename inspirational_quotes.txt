@@ -1,1 +1,2 @@
 do or do not,it doesn't change much
+making changes in inspirational_quotes.txt in the master branch.
