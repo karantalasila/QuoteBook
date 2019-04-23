@@ -1,1 +1,3 @@
 suffering gives strength
+
+i am changing the personal_quotes.txt of personal_quotes branch.
